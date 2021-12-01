@@ -2,7 +2,7 @@
 layout: cv
 title: Florencia Di Ciocco's CV
 ---
-# Isaac Newton
+# Florencia Di Ciocco
 Programmer, SQA, Mother, Wife, Disciple of Jesus Christ.
 
 <div id="webaddress">
@@ -22,7 +22,7 @@ Python, HTML, CSS, Not sleeping
 
 ### Research interests
 
-Animorphs, Yoga, Data Science, desserts, bloopers.
+Animorphs, Yoga, Data Science, Desserts, Bloopers.
 
 
 ## Education
@@ -30,13 +30,13 @@ Animorphs, Yoga, Data Science, desserts, bloopers.
 `1989-2007`
 __Growing up into a young adult.__
 
-`2007 - 20018`
+`2007 - 2018`
 __In between carrer paths.__
 
-`2018 - now`
+`2018 - Now`
 __Programming, BYUI.__
 
-`now - death`
+`Now - Death`
 __Improving my programming knowledge.__
 
 
